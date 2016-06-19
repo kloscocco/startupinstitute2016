@@ -1,0 +1,35 @@
+body {
+  line-height: 1.5;
+  color:black;
+
+  background: url('../images/white-flower.jpg');
+  /* Full Page Background Recipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: Galano, sans-serif;
+}
+
+images{
+  height:300px;
+  width: 300px;
+  position: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color:#339999;
+    background-color: #ffffcc;
+}
+
+
+h1{
+  font-size:75px;
+  margin-bottom:-50px;
+}
+
+h2{
+  font-size:30px;
+
